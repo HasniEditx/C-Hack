@@ -14,6 +14,6 @@ pkg install wget
 
 git clone https://github.com/HasniEditx/C-Hack.git
 
-cd C-Hack.git
+cd C-Hack
 
 bash camphish.sh
